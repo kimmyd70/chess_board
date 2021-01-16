@@ -40,7 +40,7 @@ ______________
 ## Configuration and Technologies
 __________
 
-The user must have Python and all associated dependencies installed.  Poetry was used to create the project and the program is run by typing  `pythonic_garage_band.py` in the command line
+The user must have Python and all associated dependencies installed.  The project is run inline using a Jupyter notebook
 ___________
 ## Changes
 __________
